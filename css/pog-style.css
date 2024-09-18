@@ -308,6 +308,12 @@ nav {
   margin-top: 45px;
 }
 
+#video-container .video-content .inner .pic {
+  height: 500px;
+  width: 100%;
+  overflow: hidden;
+}
+
 .full-screen-portfolio .container-fluid,
 .full-screen-portfolio .col-md-4, .col-md-8 {
   padding-left: 0px;
@@ -819,7 +825,10 @@ footer a:hover {
   letter-spacing: 0.5px;
 }
 
-
+.contact-body {
+  background: url('/img/GCC2.jpeg');
+  background-size: cover;
+}
 
 .contact-services {
  background-color: #232323;
