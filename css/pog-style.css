@@ -831,8 +831,19 @@ footer a:hover {
 }
 
 .contact-services {
- background-color: #232323;
+ color: #ffffff;
+ background-color: #000000af;
  padding: 65px 0px;
+}
+
+.contact-text {
+  margin-top: 5px 30px;
+  margin-left: 4vw;
+  margin-right: 4vw;
+  font-size: 24px;
+  font-weight: 100;
+  color: #fff;
+  letter-spacing: 0.5px;
 }
 
 .contact-services .service-item {
